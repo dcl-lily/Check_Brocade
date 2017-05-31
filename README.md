@@ -1,10 +1,9 @@
 # Check_Brocade
 
-Nagios 检查博客光钎交换机脚本
+Nagios 检查博科光钎交换机脚本
 
 需要python支持，使用telnet方式进行连接
 
-插件用于监控博科系列的光钎交换机
 建议在交换机上创建一个普通用户的权限进行监控，创建命令如下</br>
 userconfig --add 用户名  -r user -p 密码
 
